@@ -1,3 +1,5 @@
+#Gnuplot plotting Script
+
 set datafile separator ","
 set xdata time
 set timefmt '%Y-%m-%d %H:%M:%S'
