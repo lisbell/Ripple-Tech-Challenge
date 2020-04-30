@@ -2,6 +2,8 @@
 
 Ripple Technical Challenge
 
+PLEASE SEE WORD VERISON FOR A MORE DETAILED REPORT...
+
 Applicant: Lee Isbell
 
 Applied Position: **Senior Integration Engineer
