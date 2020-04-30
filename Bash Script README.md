@@ -7,3 +7,5 @@ Bash Scritp "getServerInfo_addToCSV.sh: periodically calls the Rippled Server by
 
 # Example #2
 Bash Script "getServerInfo_addToCSV_loop.sh" periodically calls the Rippled Server using a bash while loop function (Change the runtime varibale values to your desired time frames)
+
+
